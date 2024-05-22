@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/responsive-hamburger/static/css/main.075647bb.css",
+    "main.js": "/responsive-hamburger/static/js/main.1cc14201.js",
+    "index.html": "/responsive-hamburger/index.html",
+    "main.075647bb.css.map": "/responsive-hamburger/static/css/main.075647bb.css.map",
+    "main.1cc14201.js.map": "/responsive-hamburger/static/js/main.1cc14201.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.075647bb.css",
+    "static/js/main.1cc14201.js"
+  ]
+}
